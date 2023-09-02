@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding:0;
+}
+nav {
+    text-align: center;
+    margin: 40px;
+    padding: 30px;
+    letter-spacing: 4px;
+    font-family:'Courier New', Courier, monospace;
+}
+nav h3{
+
+    letter-spacing: 1px;
+    font-style: italic;
+    
+}
+h3{
+    margin: 15px;
+}
+.main{
+    position: relative;
+    display: flex;
+}
+
+.button{
+    border: 2px solid rgb(26, 21, 21);
+    width: 50%;
+    height: 100px;
+    margin: 20px;
+    padding: 30px;
+
+
+}
+
+#red{
+    background-color: red;
+}
+#white{
+    background-color: white;
+
+}
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+h2{
+    text-align: center;
+    margin: 40px;
+
+}
+span{
+    text-align: center;
+}
